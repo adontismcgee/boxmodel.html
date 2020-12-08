@@ -1,0 +1,15 @@
+p {
+  background: pink;
+  width: auto;
+}
+
+a {
+  background: yellow;
+}
+
+span {
+  background: teal;
+  display: inline-block;
+  width: 200px;
+}
+
